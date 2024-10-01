@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/calculator/Calculator.csproj",
+      "projectUniqueName": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/calculator/Calculator.csproj",
+      "projectPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/Calculator.csproj",
       "packagesPath": "/Users/andrew/.nuget/packages/",
-      "outputPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/calculator/obj/",
+      "outputPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andrew/.nuget/NuGet/NuGet.Config"
