@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/Calculator.csproj": {}
+    "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/Calculator.AndyHarris/Calculator.csproj": {}
   },
   "projects": {
-    "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/Calculator.csproj": {
+    "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/Calculator.AndyHarris/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/Calculator.AndyHarris/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/Calculator.csproj",
+        "projectPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/Calculator.AndyHarris/Calculator.csproj",
         "packagesPath": "/Users/andrew/.nuget/packages/",
-        "outputPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/calculator/obj/",
+        "outputPath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/CodeReviews.Console.Calculator/Calculator.AndyHarris/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andrew/.nuget/NuGet/NuGet.Config"
