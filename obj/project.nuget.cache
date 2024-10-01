@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9auVSJ12mXZm/sJ/CTp2r7pdjzkeC2E387xSWZU+AXJa9e8ftobxcutYKNbYAvRb9SHX3j36qSiLh4oB0zRZw==",
+  "success": true,
+  "projectFilePath": "/Users/andrew/Sync/Programming/C#/cSharpAcademy/calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrew/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
