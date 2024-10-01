@@ -69,7 +69,6 @@ namespace CalculatorLibrary
             {
                 return 0;
             }
-
             using (StreamReader file = File.OpenText(LogFilePath))
             using (JsonTextReader reader = new JsonTextReader(file))
             {
